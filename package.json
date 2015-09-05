@@ -1,0 +1,24 @@
+{
+  "name": "climate joe",
+  "version": "0.1.5",
+  "description": "climate change tweeter",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dataronin/climatejoe"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "bot"
+  ],
+  "license": "MIT"
+}
